@@ -1,6 +1,6 @@
 # SeedStudio-ESP32-C3-GPS-Test
 SeedStudio-ESP32-C3-GPS-Test
-This code appears to be for a microcontroller-based project that involves reading GPS data and saving it to an SD card. It also prints GPS data to the Serial monitor for debugging purposes. Let's break down the code and explain each function:
+This code for a Seed Studio ESP32-C3 microcontroller-based project that involves reading GPS data and saving it to an SD card. It also prints GPS data to the Serial monitor for debugging purposes. Let's break down the code and explain each function:
 
 1. **Library Includes and Definitions**:
    - The code includes several libraries for working with WiFi, SD cards, SoftwareSerial (for communication with the GPS module), TinyGPS++, and TimeLib.
